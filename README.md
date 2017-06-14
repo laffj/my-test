@@ -1,2 +1,2 @@
-# my-test
-Test repo
+# This is a text file
+Hello Cloud Gurus
