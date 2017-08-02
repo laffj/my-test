@@ -1,5 +1,3 @@
-# This is a text file
-Hello Cloud Gurus
+# This is my public repo
 
-This is a new line
 
